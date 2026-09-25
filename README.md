@@ -1,3 +1,3 @@
 # first_demo
 this is my first repo.<br>
-author - pari dedaniya
+author - pari dedaniya (Bsc.It)
